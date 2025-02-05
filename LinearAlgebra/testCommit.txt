@@ -1,0 +1,5 @@
+Name: Devon White
+Github Username: devon4329
+Date: 20 Jan 2024
+Course Number: CS2300 - 001
+Assignment Number: Github Setup
